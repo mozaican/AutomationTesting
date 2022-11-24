@@ -1,3 +1,3 @@
 # AutomationTesting
 
-I added some automation tests done using WebdriverIO.
+This repository contains automation tests done using WebdriverIO.
